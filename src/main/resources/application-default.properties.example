@@ -1,0 +1,5 @@
+JDBC_DATABASE_URL=jdbc:postgresql://localhost:5432/schools
+JDBC_DATABASE_USERNAME=postgres
+JDBC_DATABASE_PASSWORD=postgres
+
+ROOT_STORAGE=C:\\contacts-storage
