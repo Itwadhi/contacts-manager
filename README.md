@@ -6,7 +6,7 @@
 
 Clone the project
 
-git clone `https://github.com/Itwadhi/contacts-manager.git`
+git clone `https://github.com/developermbwambo/contacts-manager.git`
 
 ### Step 2
 
